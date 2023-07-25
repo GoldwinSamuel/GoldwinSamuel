@@ -33,7 +33,8 @@ Adaptable team player with strong problem-solving skills. Committed to continuou
 <b>SHELL:</b><br>
 <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="Bash Logo" width="50" height="50"/>
 
-
+---
+[![Goldwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=GoldwinSamuel)](https://github.com/GoldwinSamuel/github-readme-stats)
 
 <!--
 **GoldwinSamuel/GoldwinSamuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
