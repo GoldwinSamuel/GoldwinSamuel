@@ -11,9 +11,27 @@ Adaptable team player with strong problem-solving skills. Committed to continuou
 
 ---
 
+🧰 Toolbox
 
+<b>WEB-DEVELOPMENT:</b><br>
 
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML5 Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS3 Logo" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Java Script Logo" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php Logo" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL Logo" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React Logo" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="Typescript Logo" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="NPM Logo" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS Logo" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original-wordmark.svg" alt="AngularJS Logo" width="50" height="50"/>
 
+<b>PROGRAMMING:</b><br>
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg" alt="Java Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python Logo" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C plus plus Logo" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C Logo" width="50" height="50"/>
+
+<b>SHELL:</b><br>
+<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="Bash Logo" width="50" height="50"/>
 
 
 
