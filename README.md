@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there <!--👋--><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Goldwin Samuel!
 
+<img alt="Twitter URL" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fgoldwin_samuel_&style=social&label=Follow%20me%20on%20Twitter">
 <!--
 **GoldwinSamuel/GoldwinSamuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
