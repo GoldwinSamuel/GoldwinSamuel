@@ -1,5 +1,5 @@
 ### Hi there <!--👋--><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Goldwin Samuel! 
-<a href="https://drive.google.com/file/d/1-HDr3amIrRAHQwrErGMPBBLoZbOO29K-/view">My Resume</a>
+<a href="https://drive.google.com/file/d/11_2TTowBwbg57PaAGRZ9mbFCWGsEQu7y/view?usp=sharing">My Resume</a>
 
 ---
 <img alt="Twitter URL" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fgoldwin_samuel_&style=social&label=Follow%20me%20on%20Twitter">
